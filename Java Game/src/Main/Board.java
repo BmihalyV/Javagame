@@ -13,7 +13,7 @@ public class Board extends JPanel implements ActionListener {
     static int TablaMeretMagassag = 300;
     static int Bogyo = 10;
     static int OsszesBogyo = 1800;
-    static int RandomPont = 29;
+    static int RandomPont = 30;
     static int Delay = 140;
 
     static int x[] = new int[OsszesBogyo];
